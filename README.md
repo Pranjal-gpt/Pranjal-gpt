@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Pranjal Gupta Tech Enthusiast and MCA Graduate
 - 👀 I’m interested in Web design and development
 - 🌱 I’m currently learning MERN STACK
-- - 💞️ I’m looking to collaborate on Good projects
+- 💞️ I’m looking to collaborate on Good projects
 - 📫 Here's my Linkedin profile: https://www.linkedin.com/in/pranjal-gupta-20a093245/
 - 😄 Pronouns: she/her
 
